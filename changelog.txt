@@ -1,0 +1,2 @@
+1.0.0
+- Initial version of the PlanetDP Subtitles add-on for KODI
