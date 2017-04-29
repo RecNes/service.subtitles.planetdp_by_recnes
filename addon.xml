@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.subtitles.planetdp_by_recnes"
+       name="PlanetDP Subtitle add-on for KODI"
+       version="1.0.0"
+       provider-name="recnes, planetdp">
+  <requires>
+    <import addon="xbmc.python" version="2.7.12"/>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary>OpenSubtitles</summary>
+    <description lang="en">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="at">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="br">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ca">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="cs">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="de">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="el">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="eo">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="es">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="et">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="eu">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="fi">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="fr">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="hi">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="hr">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="hu">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="id">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="is">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="it">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ja">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ka">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="km">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ko">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ms">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="nl">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="no">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="pt-br">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="pl">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="pt">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ro">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="ru">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="sk">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="sl">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="sq">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="sr">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="sv">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="tr">Kodi için planetdp.org üzerinden zahmetsizce film ve diziler için alt yazı edinin.</description>
+	<description lang="uz">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+	<description lang="zh">Search and download subtitles for movies and TV-Series from planetdp.org.</description>
+    <disclaimer>Users need to provide PlanetDP.org username and password in add-on configuration</disclaimer>
+	<news>
+v1.0.00 (2017-01-05) by RecNes
+- Inıtial version...
+	</news>
+    <platform>all</platform>
+	<language></language>
+    <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+    <forum>http://forum.planetdp.org/index.php?/topic/1362-kodi-için-altyazı-eklentisi/</forum>
+    <website>http://www.recnes.com/</website>
+    <email>planetdp_kodi [at] recnes {dot} com</email>
+	<assets>
+	    <icon>resources/media/dp_logo_512x512.png</icon>
+	    <fanart>resources/media/dp_fanart.jpg</fanart>
+		<screenshot>resources/media/screenshot_1.jpg</screenshot>
+		<screenshot>resources/media/screenshot_2.jpg</screenshot>
+		<screenshot>resources/media/screenshot_3.jpg</screenshot>				
+	</assets>
+    <source>https://github.com/RecNes/service.subtitles.planetdp_by_recnes</source>
+  </extension>
+</addon>
