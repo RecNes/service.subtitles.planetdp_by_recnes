@@ -31,10 +31,10 @@
         <email>planetdp_kodi _at_ recnes /dot/ com</email>
         <assets>
             <icon>resources/media/dp_logo_512x512.png</icon>
-            <fanart>resources/media/dp_fanart.jpg</fanart>
-            <screenshot>resources/media/screenshot_1.jpg</screenshot>
-            <screenshot>resources/media/screenshot_2.jpg</screenshot>
-            <screenshot>resources/media/screenshot_3.jpg</screenshot>
+            <fanart>resources/media/dp_fanart.png</fanart>
+            <!--<screenshot>resources/media/screenshot_1.jpg</screenshot>-->
+            <!--<screenshot>resources/media/screenshot_2.jpg</screenshot>-->
+            <!--<screenshot>resources/media/screenshot_3.jpg</screenshot>-->
         </assets>
         <source>https://github.com/RecNes/service.subtitles.planetdp_by_recnes</source>
     </extension>

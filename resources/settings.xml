@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="planetdp_settings" type="bool" default="true" label="PlanetDP Settings"/>
+    <category label="32004">
+        <setting id="PDPuser" type="text" label="32002" default=""/>
+        <setting id="PDPpass" type="text" option="hidden" label="32003" default=""/>
+    </category>
+</settings>
